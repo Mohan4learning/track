@@ -2,3 +2,4 @@ streamlit
 seleniumbase
 webdriver-manager
 streamlit_autorefresh
+pandas
